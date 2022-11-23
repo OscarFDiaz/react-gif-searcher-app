@@ -2,17 +2,9 @@
 
 Aplicación creada usando Vite + React para poder buscar gifs
 
-## Deployment
-
-Para ejecutar este proyecto usar el comando
-
-```bash
-  yarn dev
-```
-
 ## Demo
 
-Link para demo por Nettlify.app
+Link para demo por Netlify.app
 
 https://gifexpert-oscar.netlify.app/
 
