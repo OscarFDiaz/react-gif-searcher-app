@@ -1,6 +1,6 @@
-# React gif searcher app
+# 📷 Gif searcher / React app
 
-Aplicación creada usando Vite + React para poder buscar gifs
+📷 Aplicación creada usando Vite + React para poder buscar gifs
 
 ## Demo
 
@@ -27,7 +27,7 @@ Ir al directorio del proyecto
 Instalar dependencias
 
 ```bash
-  npm install
+  yarn install
 ```
 
 Iniciar el servidor
